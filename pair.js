@@ -23,7 +23,7 @@ const MESSAGE = `
 *SESSION GENERATED SUCCESSFULLY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GlobalTechInfo/MEGA-MD
+https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
 https://t.me/Global_TechInfo
@@ -32,7 +32,7 @@ https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
 https://youtube.com/@GlobalTechInfo
 
-*MEGA-MD--WHATSAPP* 🥀
+*FAIZAN-MD--WHATSAPP* 🥀
 `;
 
 async function removeFile(FilePath) {
