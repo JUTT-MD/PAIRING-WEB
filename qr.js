@@ -31,7 +31,7 @@ https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
 https://youtube.com/@GlobalTechInfo
 
-*MEGA-MD--WHATSAPP* 🥀
+*FAIZAN-MD--WHATSAPP* 🥀
 `;
 
 async function removeFile(FilePath) {
